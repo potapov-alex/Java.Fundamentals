@@ -1,4 +1,4 @@
-package by.learn.java.fundamentals;
+package JavaFundamentals;
 
 /**
  * @author potap; Отобразить в окне консоли аргументы командной строки в

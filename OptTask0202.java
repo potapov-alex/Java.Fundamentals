@@ -1,4 +1,4 @@
-package by.learn.java.fundamentals;
+package JavaFundamentals;
 
 import java.util.Arrays;
 import java.util.Random;

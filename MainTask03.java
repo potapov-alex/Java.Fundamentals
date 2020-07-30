@@ -1,4 +1,4 @@
-package by.learn.java.fundamentals;
+package JavaFundamentals;
 
 import java.util.Random;
 import java.util.Scanner;
