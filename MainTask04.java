@@ -17,13 +17,13 @@ public class MainTask04 {
 		}
 		System.out.println(sum);
 
-		sum = 0;
+		int comp = 1;
 		for (String arg : args) {
 			if (isDigit(arg)) {
-				sum += Integer.valueOf(arg);
+				comp *= Integer.valueOf(arg);
 			}
 		}
-		System.out.println(sum);
+		System.out.println(comp);
 
 	}
 	
